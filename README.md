@@ -41,4 +41,8 @@ allure serve allure-results
 ```
 #### Here is the Allure report overview:
 
+<img width="818" alt="TestNG_Allaure_Report" src="https://user-images.githubusercontent.com/59090637/200366651-60fe1a41-3ad3-46a2-b2ad-8a9fce6f9a99.PNG">
 
+#### Below the suites run are shown via Allure :
+
+<img width="416" alt="TestNG_Allaure_Suits" src="https://user-images.githubusercontent.com/59090637/200366707-275a24f7-9b14-431b-9b44-01a6d3266142.PNG">
